@@ -1,1 +1,35 @@
 /* Start coding here */
+.card-container {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  padding: 40px;
+}
+.card-01,
+.card-02,
+.card-02,
+img {
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding: 4px;
+}
+.card-01 {
+  background-color: #d8e4f7;
+  padding: 20px;
+  width: 30%;
+  border-radius: 13px;
+}
+
+.card-02 {
+  background-color: #d9dffc;
+  padding: 20px;
+  width: 30%;
+  border-radius: 13px;
+}
+
+.card-03 {
+  background-color: #d9dffc;
+  padding: 20px;
+  width: 30%;
+  border-radius: 13px;
+}
